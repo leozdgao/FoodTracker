@@ -14,6 +14,7 @@
 		73B4F1481C270B3500D35A26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73B4F1461C270B3500D35A26 /* LaunchScreen.storyboard */; };
 		73B4F1531C270B3500D35A26 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4F1521C270B3500D35A26 /* FoodTrackerTests.swift */; };
 		73B4F15E1C270B3500D35A26 /* FoodTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4F15D1C270B3500D35A26 /* FoodTrackerUITests.swift */; };
+		73D0E2341C29499D00C9F48E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 73D0E2331C29499D00C9F48E /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		73B4F1591C270B3500D35A26 /* FoodTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		73B4F15D1C270B3500D35A26 /* FoodTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerUITests.swift; sourceTree = "<group>"; };
 		73B4F15F1C270B3500D35A26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73D0E2331C29499D00C9F48E /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		73B4F1311C270B3500D35A26 = {
 			isa = PBXGroup;
 			children = (
+				73D0E2331C29499D00C9F48E /* .gitignore */,
 				73B4F13C1C270B3500D35A26 /* FoodTracker */,
 				73B4F1511C270B3500D35A26 /* FoodTrackerTests */,
 				73B4F15C1C270B3500D35A26 /* FoodTrackerUITests */,
@@ -230,6 +233,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73D0E2341C29499D00C9F48E /* .gitignore in Resources */,
 				73B4F1481C270B3500D35A26 /* LaunchScreen.storyboard in Resources */,
 				73B4F1451C270B3500D35A26 /* Assets.xcassets in Resources */,
 				73B4F1431C270B3500D35A26 /* Main.storyboard in Resources */,
